@@ -1,0 +1,1 @@
+g++ first.cpp -I/home/saurabh/workspace/python/downloads/anaconda/install/anaconda3//include/python3.6m -L/home/saurabh/workspace/python/downloads/anaconda/install/anaconda3/lib -lpython3.6m
